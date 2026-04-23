@@ -1,4 +1,4 @@
-import 'package:modelhandling/model/user.dart';
+//import 'package:modelhandling/model/user.dart';
 import 'package:modelhandling/model/userauth_model.dart';
 import 'package:supabase_flutter/supabase_flutter.dart' hide User;
 
